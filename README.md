@@ -25,4 +25,5 @@ Cuurently, I am in the fourth year of my Bachelors' in Computer Science. My pass
 <a href="https://github.com/rluu1" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
   
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rluu1&show_icons=true&theme=radical)](https://github.com/rluu1/github-readme-stats)
+<h3> Ryan's GitHub stats</h3>
+<a href="https://github.com/rluu1"><img src="https://github-readme-stats.vercel.app/api?username=rluu1&show_icons=true&theme=radical" width=395 height=195>
