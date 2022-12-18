@@ -16,6 +16,13 @@ Cuurently, I am in the fourth year of my Bachelors' in Computer Science. My pass
 - 💬 Ask me about my Major Qualifying Project!
 - ⚡ Fun Fact: I like drawing, cooking and traveling!
 
-### *Skills*
+### *Languages & Technologies*
+
 ### *Socials*
+<p align="center"> 
+<a href="https://discord.com/users/Juice_God#9694" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+<a href="https://www.linkedin.com/in/ryan-m-luu/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://github.com/rluu1" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</p>
+  
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rluu1&show_icons=true&theme=radical)](https://github.com/rluu1/github-readme-stats)
