@@ -14,7 +14,7 @@ Cuurently, I am in the fourth year of my Bachelors' in Computer Science. My pass
 - 🧠 I'm learning React and Bootstrap.
 - 👯 I’m open to collaborate on any projects!
 - 💬 Ask me about my Major Qualifying Project!
-- ⚡ Fun Fact: I like drawing, cooking and traveling!
+- ⚡ Fun Fact: I like drawing, photography, cooking and traveling!
 
 ### *Languages & Technologies*
 <p align="center">
